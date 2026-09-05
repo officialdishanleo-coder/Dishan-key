@@ -21,5 +21,13 @@
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
-  "Keys": {}
+  "Keys": {
+    "12345678": {
+      "hwid": "B9533AE526C20BCF",
+      "expireDate": "2026-09-06",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }

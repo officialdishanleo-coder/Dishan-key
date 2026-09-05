@@ -1,0 +1,47 @@
+{
+  "AppConfig": {
+    "bannerText": "Awaiting Authentication.",
+    "getKeyText": "🔑 Get Key ↗️",
+    "getKeyUrl": "https://t.me/Dishanv",
+    "imageUrl": "https://github.com/officialdishanleo-coder/Dishan-key.git",
+    "loginBtnText": "AUTHENTICATE",
+    "maintenanceMode": false,
+    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "statusBadge": "SECURE",
+    "tags": [
+      "👨‍💻 Engine by LeoMods 👨‍💻",
+      "🚀 Leo V4 🚀",
+      "🛠 Stable Build"
+    ],
+    "title": "Dishan Mod",
+    "updateMsg": "New  Dishan Mod version available! Please update",
+    "updateRequired": false,
+    "updateUrl": "https://t.me/Dishanv"
+  },
+  "BannedHWIDs": {
+    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
+  },
+  "Keys": {
+    "123456789": {
+      "hwid": "B9533AE526C20BCF",
+      "expireDate": "2026-09-06",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    },
+    "DPMods-WQPAYG": {
+      "hwid": "B9533AE526C20BCF",
+      "expireDate": "2026-09-06",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    },
+    "DPMods-82V6BB": {
+      "hwid": "B9533AE526C20BCF",
+      "expireDate": "2026-09-06",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
+}
